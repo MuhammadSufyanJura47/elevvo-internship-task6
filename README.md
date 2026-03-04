@@ -4,7 +4,6 @@
 This is **Task 6** of my **Elevvo Front-End Web Development Tasks** series.  
 It’s a **multi-page admin dashboard** for a fictional freelance client, built with **React** and **React Router**. The app includes a consistent **sidebar + top header layout**, smooth page switching without refresh, and dashboard visuals like a **Chart.js monthly earnings bar chart** and subtle **Three.js** scenes for a modern feel.
 
-**Repository:** https://github.com/MuhammadSufyanJura47/elevvo-internship-task6/tree/main
 
 ## Key Features / Functions
 ### 1) Multi‑Page Routing (No Refresh)
@@ -57,11 +56,14 @@ It’s a **multi-page admin dashboard** for a fictional freelance client, built 
 - **Three.js** — background + mini 3D scenes
 - **ESLint** — code quality tooling
 
+## Notes
+This dashboard uses mock data for stats, projects, and activities (front-end only).
+Built to demonstrate reusable layout patterns, responsive design, routing, charts, and 3D UI enhancements.
+
+✅ Completed as part of the Elevvo internship front-end task set.
+
 ## How to Run Locally
 ```bash
 npm install
 npm run dev
-Notes
-This dashboard uses mock data for stats, projects, and activities (front-end only).
-Built to demonstrate reusable layout patterns, responsive design, routing, charts, and 3D UI enhancements.
-✅ Completed as part of the Elevvo internship front-end task set.
+
